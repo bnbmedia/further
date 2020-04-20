@@ -18,7 +18,7 @@ When the app is running in the foreground and Bluetooth permissions have been al
 }
 ```
 
-When possible, the app will attempt to "connect" to the alternate device, solely for the sake of establishing a "disconnect time," and allowing the app to calculate length of time two devices were in range of one another.  This is not an implemented feature, but is being built with the intent that future health guidance could indicate that transmission of COVID-19 may require a certain time elapsing.
+When possible, the app will attempt to "connect" to the alternate device, solely for the sake of establishing a "disconnect time," and allowing the app to calculate length of time two devices were in range of one another.  This is not an implemented feature, but is being built with the intent that future health guidance could indicate time-based exposure may play a factor in the severity of overall transmissions.
 
 # How It Works - Questionnaire
 Within the app exists the functionality to self-report responses to the following questions;
